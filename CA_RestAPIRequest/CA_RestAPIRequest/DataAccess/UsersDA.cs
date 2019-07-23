@@ -64,10 +64,13 @@ namespace CA_RestAPIRequest
                     FechaIngreso=new DateTime(2015,01,20),
                     Cargo="Coordinador De Sst",
                     Salario= 5000000,
-                    Eps="SURA EPS",
-                    Arl="SEGUROS BOLÍVAR",
-                    FondoPension="COLPENSIONES",
-                    TipoContrato="Término indefinido"
+                    //Eps="SURA EPS",
+                    CodigoEps = "EPS010",
+                    //Arl="SEGUROS BOLÍVAR",
+                    CodigoArl="14-7",
+                    //FondoPension="COLPENSIONES",
+                    CodigoFondoPension="25-14",
+                    TipoContrato="01"
                 }
             };
 

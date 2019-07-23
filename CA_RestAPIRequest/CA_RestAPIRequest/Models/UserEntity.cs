@@ -14,8 +14,11 @@ namespace CA_RestAPIRequest
         public string Cargo { get; set; }
         public double Salario { get; set; }
         public string Eps { get; set; }
+        public string CodigoEps { get; set; }
         public string Arl { get; set; }
+        public string CodigoArl { get; set; }
         public string FondoPension { get; set; }
+        public string CodigoFondoPension { get; set; }
         public string TipoContrato { get; set; }
     }
 }
