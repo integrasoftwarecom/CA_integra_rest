@@ -20,8 +20,6 @@ namespace CA_RestAPIRequest
         static void Main(string[] args)
         {
             MainAsync().GetAwaiter().GetResult();
-            
-            Console.ReadLine();
         }
 
         static async Task MainAsync()
