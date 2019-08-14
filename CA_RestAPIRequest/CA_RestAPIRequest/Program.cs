@@ -3,6 +3,8 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using System.Net.Http.Headers;
 using System.Configuration;
+using NLog;
+using Newtonsoft.Json;
 
 namespace CA_RestAPIRequest
 {
@@ -13,6 +15,7 @@ namespace CA_RestAPIRequest
         static string apiBaseUrl = ConfigurationManager.AppSettings["WebApiBaseUri"];
         static string apiUserName = ConfigurationManager.AppSettings["WebApiConnUserName"];
         static string apiPassword = ConfigurationManager.AppSettings["WebApiConnPassword"];
+        private static Logger logger = LogManager.GetCurrentClassLogger();
 
         static void Main(string[] args)
         {
@@ -48,6 +51,9 @@ namespace CA_RestAPIRequest
             UsersController userCrtl = new UsersController(client);
 
             CreateUpdateUserResponse requestResponse = await userCrtl.CreateUpdateUsersAsync();
+
+            //Guardamos el log
+            logger.Info(JsonConvert.SerializeObject(requestResponse));
 
             if (!requestResponse.HasErrors)
             {

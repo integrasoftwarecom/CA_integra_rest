@@ -10,3 +10,20 @@ c:\users\lenovo\documents\visual studio 2015\Projects\CA_RestAPIRequest\CA_RestA
 c:\users\lenovo\documents\visual studio 2015\Projects\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Dapper.dll
 C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Dapper.xml
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\NLog.config
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\CA_RestAPIRequest.exe.config
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\CA_RestAPIRequest.exe
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\CA_RestAPIRequest.pdb
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Dapper.dll
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\NLog.dll
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Dapper.xml
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\NLog.xml
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\obj\Debug\CA_RestAPIRequest.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\obj\Debug\CA_RestAPIRequest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\obj\Debug\CA_RestAPIRequest.csproj.CopyComplete
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\obj\Debug\CA_RestAPIRequest.exe
+C:\Users\Lenovo\Documents\person\CA_integra_rest_new\CA_RestAPIRequest\CA_RestAPIRequest\obj\Debug\CA_RestAPIRequest.pdb
